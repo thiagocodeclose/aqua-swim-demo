@@ -191,7 +191,7 @@ export default function AquaPage() {
         <div className="aq-hero-overlay" />
         <div className="aq-hero-content">
           <div className="aq-hero-badge">💧 San Diego · La Jolla</div>
-          <h1 className="aq-hero-title">
+          <h1 data-cg-el="hero_headline_1" className="aq-hero-title">
             Powered<br />by <span>Water.</span>
           </h1>
           <p className="aq-hero-sub">San Diego's premier aquatic training center. From first strokes to elite performance — your journey starts in the water.</p>
