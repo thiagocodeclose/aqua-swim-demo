@@ -194,10 +194,10 @@ export default function AquaPage() {
           <h1 data-cg-el="hero_headline_1" className="aq-hero-title">
             Powered<br />by <span>Water.</span>
           </h1>
-          <p className="aq-hero-sub">San Diego's premier aquatic training center. From first strokes to elite performance — your journey starts in the water.</p>
+          <p data-cg-el="hero_subtitle" className="aq-hero-sub">San Diego's premier aquatic training center. From first strokes to elite performance — your journey starts in the water.</p>
           <div className="aq-hero-actions">
-            <button className="aq-btn-primary">Explore Programs</button>
-            <button className="aq-btn-outline">View Schedule</button>
+            <button data-cg-el="hero_cta_primary" className="aq-btn-primary">Explore Programs</button>
+            <button data-cg-el="hero_cta_secondary" className="aq-btn-outline">View Schedule</button>
           </div>
         </div>
       </section>
