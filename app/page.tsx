@@ -305,7 +305,7 @@ export default function AquaPage() {
           <div className="aq-footer-logo">AQUA<span>.</span>Training</div>
           <div className="aq-footer-info">{d.gym.address}<br />{d.gym.phone} · {d.gym.email}</div>
         </div>
-        <div className="aq-footer-copy">© {new Date().getFullYear()} {d.gym.name}. Powered by Koriva.</div>
+        <div className="aq-footer-copy">© {new Date().getFullYear()} {d.gym.name}. Powered by Garrison365.</div>
       </footer>
     </>
   );
